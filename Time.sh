@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Jermain Reed
 # Script:    Ops 301 Challenge
 # Purpose:   Append date and time to a file
 # Why:       Copies /var/log/syslog to the current working directory
